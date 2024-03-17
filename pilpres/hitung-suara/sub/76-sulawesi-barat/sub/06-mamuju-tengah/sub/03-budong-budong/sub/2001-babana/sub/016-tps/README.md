@@ -2,7 +2,7 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/96a8/pemilu/ppwp/76/06/03/20/01/7606032001016-20240228-105919--3bb61fc6-ef12-43ea-be81-98ec2720249e.jpg
+https://sirekap-obj-formc.kpu.go.id/96a8/pemilu/ppwp/76/06/03/20/01/7606032001016-20240317-150820--9d6e6104-463c-438d-ac58-cd7e1532d2a9.jpg
 
 https://sirekap-obj-formc.kpu.go.id/96a8/pemilu/ppwp/76/06/03/20/01/7606032001016-20240228-105921--8509a88a-425a-4a3c-bfde-8cbb9de52425.jpg
 
@@ -13,7 +13,7 @@ https://sirekap-obj-formc.kpu.go.id/96a8/pemilu/ppwp/76/06/03/20/01/760603200101
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-28 11:00:00 |
+| Time Stamp | 2024-03-17 15:30:00 |
 
 
 ## DATA PEMILIH TETAP
