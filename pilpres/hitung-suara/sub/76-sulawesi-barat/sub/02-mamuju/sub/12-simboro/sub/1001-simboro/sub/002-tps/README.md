@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 156
-    bar [51, 156, 4]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 51
-    "2" : 156
-    "3" : 4
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 51    | [51][p-1]   | 24,17      |
-| 2   | PRABOWO GIBRAN | 156   | [156][p-2]  | 73,93      |
-| 3   | GANJAR MAHFUD  | 4     | [4][p-3]    | 1,90       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-76-sulawesi-barat/blob/main/pilpres/hitung-suara/sub/76-sulawesi-barat/sub/02-mamuju/sub/12-simboro/sub/1001-simboro/sub/002-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-76-sulawesi-barat/blob/main/pilpres/hitung-suara/sub/76-sulawesi-barat/sub/02-mamuju/sub/12-simboro/sub/1001-simboro/sub/002-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-76-sulawesi-barat/blob/main/pilpres/hitung-suara/sub/76-sulawesi-barat/sub/02-mamuju/sub/12-simboro/sub/1001-simboro/sub/002-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/75c7/pemilu/ppwp/76/02/12/10/01/7602121001002-20240215-031040--8395f385-909c-469a-be7e-9e8df674c855.jpg
+https://sirekap-obj-formc.kpu.go.id/75c7/pemilu/ppwp/76/02/12/10/01/7602121001002-20240320-094521--28fcf670-ca50-4f0b-b2fc-fd9ebe3c0071.jpg
 
-https://sirekap-obj-formc.kpu.go.id/75c7/pemilu/ppwp/76/02/12/10/01/7602121001002-20240215-024016--f571b56f-943d-42d1-8e9f-81cf1031bdc7.jpg
+https://sirekap-obj-formc.kpu.go.id/75c7/pemilu/ppwp/76/02/12/10/01/7602121001002-20240320-094523--6b20ebec-ffc1-4d9f-bda8-f3b159bde7e9.jpg
 
-https://sirekap-obj-formc.kpu.go.id/75c7/pemilu/ppwp/76/02/12/10/01/7602121001002-20240215-024202--ea00507d-09f5-4339-a662-0f3d49664203.jpg
+https://sirekap-obj-formc.kpu.go.id/75c7/pemilu/ppwp/76/02/12/10/01/7602121001002-20240320-094522--4d5287d8-8d49-4121-845d-16fa32f6b39c.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-15 17:00:25 |
+| Time Stamp | 2024-03-20 10:00:00 |
 
 
 ## DATA PEMILIH TETAP
